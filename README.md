@@ -1,27 +1,31 @@
 # **An Introduction to R Coding** <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+### **Asad Prodhan PhD** 
 
 
+**https://asadprodhan.github.io/**
+<br />
+<br />
+<br />
+<br />
 ![alt text](https://github.com/asadprodhan/An-introduction-to-R-coding/blob/main/cover_image.png)
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+R is a popular programming language in data science. It is widely used to analyse data, make excellent graphs, and to do so many more tasks. You will need to download and install R in your computer to use it. You can also install 'R Studio'. R Studio is like a calculator app (technically, it's called 'Integrated Development Environment or IDE), where you write the codes, press 'Enter', and see the output immediately. 
+
 <br />
 
-R is a popular programming language in data science. Dealing with any sort of data inevitably involves the following three tasks: i) pre-analysis processing of the raw data, ii) careful selection of suitable statistical tests, and iii) finally visualizing the data in a way that captures the take-home message. In this tutorial, we aim to gain some basic skills to perform these three tasks using R.  For each task, we will look at a real-world example and go through how to write R codes to accomplish them. We start with the data-visualisation task first.
+**R download and installation:** https://cran.r-project.org/
+
+
+**R Studio download and installation:** https://posit.co/download/rstudio-desktop/
+
+
+**How to set up and use R Studio:** https://github.com/asadprodhan/Setting-up-R-Studio
+
+<br />
+
+However, dealing with any sort of data inevitably involves the following three tasks: i) pre-analysis processing of the raw data, ii) careful selection of suitable statistical tests, and iii) finally visualizing the data in a way that captures the take-home message. In this tutorial, we aim to gain some basic skills to perform these three tasks using R.  For each task, we will look at a real-world example and go through how to write R codes to accomplish them. We start with the data-visualisation task first.
 <br />
 <br />
 ## **What does data visualisation do?**
