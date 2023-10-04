@@ -183,7 +183,7 @@ global.leaf.n <- g # we named our box-plot as 'global.leaf.n'
 ## Saving the boxplot
 
 ```
-dev.copy(png,'global.leaf.n.png',width = 13, height = 9, units="cm", res=400) 
+ggsave("global.leaf.n.png", global.leaf.n, height = 9, width = 13, dpi = 300, units='cm')
                    # we can change size and resolution of the plot
 ```
 <br />
